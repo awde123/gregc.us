@@ -1288,8 +1288,8 @@ h6,
   font-size: 12px;
 }
 p {
+  text-indent: 30px;
   margin: 0 0 10px;
-  text-indent: 2.0em;
 }
 .lead {
   margin-bottom: 20px;
